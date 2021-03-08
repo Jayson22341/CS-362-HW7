@@ -1,8 +1,10 @@
 
 
 def FizzBuzz(x):
+    if x % 3 == 0:
+        return "Fizz"
     return x
 
 print("This is the FizzBuzz Program! I'm gonna do my thing!")
 for x in range(1,101):
-    FizzBuzz(x)
+    print(FizzBuzz(x))
