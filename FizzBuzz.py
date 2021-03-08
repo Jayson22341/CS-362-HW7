@@ -1,7 +1,7 @@
 
 
 def FizzBuzz(x):
-    pass
+    return x
 
 print("This is the FizzBuzz Program! I'm gonna do my thing!")
 for x in range(1,101):
