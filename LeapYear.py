@@ -1,5 +1,5 @@
 def YearCheck(x):
-    pass
+    return False
 
 print("This is the Leap-Year-Check program!")
 print("Give me a year, and I'll tell if its a leap year or not!")
