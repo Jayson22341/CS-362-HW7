@@ -1,0 +1,7 @@
+My approach for creating the Upvote/Downvote system for my social media system would be the following:
+
+1. create a test to check if someone has upvoted/downvoted a post
+2. create a test to ensure that a person gets one vote per post.  
+3. create a test to check that an upvote increases the total by 1
+4. create a test to check that a downvote decreases the total by 1
+5. implement finished product.  
