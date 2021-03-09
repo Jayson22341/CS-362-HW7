@@ -1,4 +1,6 @@
 def YearCheck(x):
+    if x % 4 == 0:
+        return True
     return False
 
 print("This is the Leap-Year-Check program!")
